@@ -1,4 +1,4 @@
-import allMovies from "../data/movies";
+import allMovies from "../data/movies.json";
 import { generateActorNames, generateNumberArray, generateRandomGenres, generateMovieData } from "../utils";
 
 const getAllMovies = (count = 10) => {

@@ -35,20 +35,23 @@ export const generateRatings = (min = 5, max = 10) => {
 };
 
 export const generateMovieData = movie => {
-  let genre = movie.Categories;
-  if (genre === "Uncategorized") {
+  let genre = movie.Genre;
+  if (genre === "") {
     genre = [generateRandomGenres(), generateRandomGenres()];
   } else {
-    genre = genre.split("|");
+    genre = genre.split(",");
   }
   return {
     title: movie.Title,
-    fullTitle: movie.fulltitle,
-    actors: generateActorNames(10), // Have to generate real actor name
+    actors: movie.Actors, // Have to generate real actor name
     poster: movie.ImageURL,
-    releaseDate: movie.movie_year,
-    rating: movie.imdb_rating,
+    releaseDate: movie.Released,
+    plot: movie.Plot,
+    rating: movie.imdbRating,
+    duration: movie.Runtime,
     summary: movie.summary,
+    poster: movie.Poster,
+    production: movie.Production,
     id: movie.id,
     genre
   };

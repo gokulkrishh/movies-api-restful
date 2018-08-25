@@ -1,4 +1,4 @@
-import allMovies from "../data/movies";
+import allMovies from "../data/movies.json";
 import { generateMovieData, generateActorNames } from "../utils";
 
 const getMovieById = id => {
