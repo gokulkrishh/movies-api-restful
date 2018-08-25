@@ -1,3 +1,6 @@
+import getAllMovies from "../controllers/getAllMovies";
+import getMovieById from "../controllers/getMovieById";
+
 const routes = app => {
   app.get("/", (req, res) => {
     res.redirect("/api");
@@ -8,11 +11,28 @@ const routes = app => {
   });
 
   app.route("/api/movies/all").get((req, res) => {
-    res.send("Get all movies");
+    const count = req.query.count;
+    res.json({
+      status: 200,
+      data: getAllMovies(count)
+    });
   });
 
   app.route("/api/movies/:id").get((req, res) => {
-    res.send(`Get movie for ${req.params.id}`);
+    const id = req.params.id;
+    if (!id) {
+      res.json(
+        {
+          statusCode: 404,
+          message: `Movie id is missing`
+        },
+        404
+      );
+    }
+    res.json({
+      status: 200,
+      data: getMovieById(id)
+    });
   });
 
   app.route("/api/actors/:id").get((req, res) => {
@@ -23,7 +43,6 @@ const routes = app => {
     res.json(
       {
         statusCode: 404,
-        error: "Not found",
         message: "Not found"
       },
       404
