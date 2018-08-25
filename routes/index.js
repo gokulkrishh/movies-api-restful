@@ -13,7 +13,7 @@ const routes = app => {
   app.route("/api/movies/all").get((req, res) => {
     const count = req.query.count;
     res.json({
-      status: 200,
+      statusCode: 200,
       data: getAllMovies(count)
     });
   });
@@ -29,8 +29,8 @@ const routes = app => {
         404
       );
     }
-    res.json({
-      status: 200,
+    res.status(200).json({
+      statusCode: 200,
       data: getMovieById(id)
     });
   });
@@ -40,7 +40,7 @@ const routes = app => {
   });
 
   app.get("*", function(req, res) {
-    res.json(
+    res.status(404).json(
       {
         statusCode: 404,
         message: "Not found"
