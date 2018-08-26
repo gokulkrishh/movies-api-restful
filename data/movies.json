@@ -7,20 +7,26 @@
     "Runtime": "104 min",
     "Genre": "Adventure, Family, Fantasy",
     "Director": "Joe Johnston",
-    "Writer":
-      "Jonathan Hensleigh (screenplay), Greg Taylor (screenplay), Jim Strain (screenplay), Greg Taylor (screen story), Jim Strain (screen story), Chris Van Allsburg (screen story), Chris Van Allsburg (book)",
+    "Writer": "Jonathan Hensleigh (screenplay), Greg Taylor (screenplay), Jim Strain (screenplay), Greg Taylor (screen story), Jim Strain (screen story), Chris Van Allsburg (screen story), Chris Van Allsburg (book)",
     "Actors": "Robin Williams, Jonathan Hyde, Kirsten Dunst, Bradley Pierce",
-    "Plot":
-      "After being trapped in a jungle board game for 26 years, a Man-Child wins his release from the game. But, no sooner has he arrived that he is forced to play again, and this time sets the creatures of the jungle loose on the city. Now it is up to him to stop them.",
+    "Plot": "After being trapped in a jungle board game for 26 years, a Man-Child wins his release from the game. But, no sooner has he arrived that he is forced to play again, and this time sets the creatures of the jungle loose on the city. Now it is up to him to stop them.",
     "Language": "English, French",
     "Country": "USA",
-  "Awards": "4 wins & 9 nominations.",
-    "Poster":
-      "https://m.media-amazon.com/images/M/MV5BZTk2ZmUwYmEtNTcwZS00YmMyLWFkYjMtNTRmZDA3YWExMjc2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Awards": "4 wins & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTk2ZmUwYmEtNTcwZS00YmMyLWFkYjMtNTRmZDA3YWExMjc2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "Ratings": [
-      { "Source": "Internet Movie Database", "Value": "6.9/10" },
-      { "Source": "Rotten Tomatoes", "Value": "53%" },
-      { "Source": "Metacritic", "Value": "39/100" }
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "53%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "39/100"
+      }
     ],
     "Metascore": "39",
     "imdbRating": "6.9",
@@ -43,17 +49,24 @@
     "Director": "Tim Miller",
     "Writer": "Rhett Reese, Paul Wernick",
     "Actors": "Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer",
-    "Plot":
-      "This is the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+    "Plot": "This is the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
     "Language": "English",
     "Country": "USA",
     "Awards": "Nominated for 2 Golden Globes. Another 27 wins & 73 nominations.",
-    "Poster":
-      "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
     "Ratings": [
-      { "Source": "Internet Movie Database", "Value": "8.0/10" },
-      { "Source": "Rotten Tomatoes", "Value": "83%" },
-      { "Source": "Metacritic", "Value": "65/100" }
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "83%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "65/100"
+      }
     ],
     "Metascore": "65",
     "imdbRating": "8.0",
@@ -74,19 +87,26 @@
     "Runtime": "152 min",
     "Genre": "Action, Crime, Drama",
     "Director": "Christopher Nolan",
-    "Writer":
-      "Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)",
+    "Writer": "Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)",
     "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",
-    "Plot":
-      "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "Plot": "Set within a year after the events of Batman Begins, Batman, Lieutenant James Gordon, and new district attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City until a mysterious and sadistic criminal mastermind known only as the Joker appears in Gotham, creating a new wave of chaos. Batman's struggle against the Joker becomes deeply personal, forcing him to \"confront everything he believes\" and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent and Rachel Dawes.",
     "Language": "English, Mandarin",
     "Country": "USA, UK",
     "Awards": "Won 2 Oscars. Another 152 wins & 155 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
     "Ratings": [
-      { "Source": "Internet Movie Database", "Value": "9.0/10" },
-      { "Source": "Rotten Tomatoes", "Value": "94%" },
-      { "Source": "Metacritic", "Value": "82/100" }
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "94%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
     ],
     "Metascore": "82",
     "imdbRating": "9.0",
@@ -109,17 +129,24 @@
     "Director": "Francis Ford Coppola",
     "Writer": "Mario Puzo (screenplay by), Francis Ford Coppola (screenplay by), Mario Puzo (based on the novel by)",
     "Actors": "Marlon Brando, Al Pacino, James Caan, Richard S. Castellano",
-    "Plot":
-      "When the aging head of a famous crime family decides to transfer his position to one of his subalterns, a series of unfortunate events start happening to the family, and a war begins between all the well-known families leading to insolence, deportation, murder and revenge, and ends with the favorable successor being finally chosen.",
+    "Plot": "When the aging head of a famous crime family decides to transfer his position to one of his subalterns, a series of unfortunate events start happening to the family, and a war begins between all the well-known families leading to insolence, deportation, murder and revenge, and ends with the favorable successor being finally chosen.",
     "Language": "English, Italian, Latin",
     "Country": "USA",
     "Awards": "Won 3 Oscars. Another 24 wins & 28 nominations.",
-    "Poster":
-      "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
     "Ratings": [
-      { "Source": "Internet Movie Database", "Value": "9.2/10" },
-      { "Source": "Rotten Tomatoes", "Value": "98%" },
-      { "Source": "Metacritic", "Value": "100/100" }
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "98%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "100/100"
+      }
     ],
     "Metascore": "100",
     "imdbRating": "9.2",
@@ -140,8 +167,7 @@
     "Runtime": "110 min",
     "Genre": "Action, Adventure, Thriller",
     "Director": "Brian De Palma",
-    "Writer":
-      "Bruce Geller (television series), David Koepp (story), Steven Zaillian (story), David Koepp (screenplay), Robert Towne (screenplay)",
+    "Writer": "Bruce Geller (television series), David Koepp (story), Steven Zaillian (story), David Koepp (screenplay), Robert Towne (screenplay)",
     "Actors": "Tom Cruise, Jon Voight, Emmanuelle Béart, Henry Czerny",
     "Plot": "Jim Phelps was sent to Prague for a mission to prevent the theft of classified material. His wife Claire and his trusted partner Ethan Hunt were members of Phelps team. Unfortunately, something went horribly wrong and the mission failed, leaving Ethan Hunt the lone survivor. After he reported the failed mission, Kettridge the head of the agency suspects Ethan of being the culprit for the failed mission. Now, Ethan uses unorthodox methods (Which includes the aid of an arms dealer going by the name 'Max') to try to find who set him up and to clear his name",
     "Language": "English, French, Czech",
@@ -149,9 +175,18 @@
     "Awards": "3 wins & 14 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTc3NjI2MjU0Nl5BMl5BanBnXkFtZTgwNDk3ODYxMTE@._V1_SX300.jpg",
     "Ratings": [
-      { "Source": "Internet Movie Database", "Value": "7.1/10" },
-      { "Source": "Rotten Tomatoes", "Value": "63%" },
-      { "Source": "Metacritic", "Value": "59/100" }
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "63%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "59/100"
+      }
     ],
     "Metascore": "59",
     "imdbRating": "7.1",
@@ -174,16 +209,24 @@
     "Director": "Christopher Nolan",
     "Writer": "Christopher Nolan",
     "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy",
-    "Plot":
-      "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now Cobb is being offered a chance at redemption. One last job could give him his life back but only if he can accomplish the impossible - inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea but to plant one. If they succeed, it could be the perfect crime. But no amount of careful planning or expertise can prepare the team for the dangerous enemy that seems to predict their every move. An enemy that only Cobb could have seen coming.",
+    "Plot": "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now Cobb is being offered a chance at redemption. One last job could give him his life back but only if he can accomplish the impossible - inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea but to plant one. If they succeed, it could be the perfect crime. But no amount of careful planning or expertise can prepare the team for the dangerous enemy that seems to predict their every move. An enemy that only Cobb could have seen coming.",
     "Language": "English, Japanese, French",
     "Country": "USA, UK",
     "Awards": "Won 4 Oscars. Another 152 wins & 204 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
     "Ratings": [
-      { "Source": "Internet Movie Database", "Value": "8.8/10" },
-      { "Source": "Rotten Tomatoes", "Value": "86%" },
-      { "Source": "Metacritic", "Value": "74/100" }
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "86%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "74/100"
+      }
     ],
     "Metascore": "74",
     "imdbRating": "8.8",
@@ -206,17 +249,24 @@
     "Director": "Michael Mann",
     "Writer": "Michael Mann",
     "Actors": "Al Pacino, Robert De Niro, Val Kilmer, Jon Voight",
-    "Plot":
-      "A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.",
+    "Plot": "A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.",
     "Language": "English, Spanish",
     "Country": "USA",
     "Awards": "12 nominations.",
-    "Poster":
-      "https://m.media-amazon.com/images/M/MV5BNDc0YTQ5NGEtM2NkYS00MWRhLThiNzAtNmY3NWU3YzNkMjIyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDc0YTQ5NGEtM2NkYS00MWRhLThiNzAtNmY3NWU3YzNkMjIyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
     "Ratings": [
-      { "Source": "Internet Movie Database", "Value": "8.2/10" },
-      { "Source": "Rotten Tomatoes", "Value": "86%" },
-      { "Source": "Metacritic", "Value": "76/100" }
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "86%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "76/100"
+      }
     ],
     "Metascore": "76",
     "imdbRating": "8.2",
@@ -243,12 +293,20 @@
     "Language": "English, Swedish",
     "Country": "USA",
     "Awards": "Won 11 Oscars. Another 111 wins & 77 nominations.",
-    "Poster":
-      "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
     "Ratings": [
-      { "Source": "Internet Movie Database", "Value": "7.8/10" },
-      { "Source": "Rotten Tomatoes", "Value": "88%" },
-      { "Source": "Metacritic", "Value": "75/100" }
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
     ],
     "Metascore": "75",
     "imdbRating": "7.8",
@@ -271,17 +329,24 @@
     "Director": "David Fincher",
     "Writer": "Chuck Palahniuk (novel), Jim Uhls (screenplay)",
     "Actors": "Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier",
-    "Plot":
-      "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+    "Plot": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
     "Language": "English",
     "Country": "USA, Germany",
     "Awards": "Nominated for 1 Oscar. Another 10 wins & 34 nominations.",
-    "Poster":
-      "https://m.media-amazon.com/images/M/MV5BNGM2NjQxZTAtMmU5My00YTk5LWFmOWMtYjZlYzk4YzMwNjFlXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGM2NjQxZTAtMmU5My00YTk5LWFmOWMtYjZlYzk4YzMwNjFlXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
     "Ratings": [
-      { "Source": "Internet Movie Database", "Value": "8.8/10" },
-      { "Source": "Rotten Tomatoes", "Value": "79%" },
-      { "Source": "Metacritic", "Value": "66/100" }
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "79%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "66/100"
+      }
     ],
     "Metascore": "66",
     "imdbRating": "8.8",
@@ -304,16 +369,24 @@
     "Director": "Mark Waters",
     "Writer": "Rosalind Wiseman (book), Tina Fey (screenplay)",
     "Actors": "Lindsay Lohan, Rachel McAdams, Tina Fey, Tim Meadows",
-    "Plot":
-      "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+    "Plot": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
     "Language": "English, German, Vietnamese, Swahili",
     "Country": "USA, Canada",
     "Awards": "7 wins & 25 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDQ4MjI1OV5BMl5BanBnXkFtZTcwNzcwODAzMw@@._V1_SX300.jpg",
     "Ratings": [
-      { "Source": "Internet Movie Database", "Value": "7.0/10" },
-      { "Source": "Rotten Tomatoes", "Value": "83%" },
-      { "Source": "Metacritic", "Value": "66/100" }
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "83%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "66/100"
+      }
     ],
     "Metascore": "66",
     "imdbRating": "7.0",
@@ -324,6 +397,1238 @@
     "BoxOffice": "$85,974,306",
     "Production": "Paramount Pictures",
     "Website": "http://www.meangirlsmovie.com/indexflash.html",
+    "Response": "True"
+  },
+  {
+    "Title": "Ghostbusters",
+    "Year": "1984",
+    "Rated": "PG",
+    "Released": "08 Jun 1984",
+    "Runtime": "105 min",
+    "Genre": "Action, Comedy, Fantasy",
+    "Director": "Ivan Reitman",
+    "Writer": "Dan Aykroyd, Harold Ramis",
+    "Actors": "Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis",
+    "Plot": "Peter Venkman, Ray Stantz and Egon work at the University where they delve into the paranormal and fiddle with many unethical experiments on the students. As they are kicked out of the University do they really understand their knowledge of the paranormal and go into business for themselves. Under the new snazzy business name of 'Ghostbusters', and living in the old firehouse building they work out of, they are called to rid New York City of paranormal phenomenon at everyone's whim.... for a price. They make national press as the media thinks and pressures everybody the Ghostbusters are the cause of it all. Thrown in jail by the EPA, the mayor takes a chance and calls on them to help save the city. Unbeknownst to all, a long dead Gozer worshiper (Evo Shandor) erected downtown apartment building is the cause of all the paranormal activity. They find out the building could resurrect the ancient Hittite god, Gozer, and bring an end to all of humanity. Who are you gonna call to stop this terrible world-ending menace?",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Oscars. Another 6 wins & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxMjYyNzgwMl5BMl5BanBnXkFtZTgwMTE3MjYyMTE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "71/100"
+      }
+    ],
+    "Metascore": "71",
+    "imdbRating": "7.8",
+    "imdbVotes": "308,394",
+    "imdbID": "tt0087332",
+    "Type": "movie",
+    "DVD": "29 Jun 1999",
+    "BoxOffice": "N/A",
+    "Production": "Columbia Pictures",
+    "Website": "http://www.sonypictures.ca/english/movies/ghostbusters/",
+    "Response": "True"
+  },
+  {
+    "Title": "Finding Nemo",
+    "Year": "2003",
+    "Rated": "G",
+    "Released": "30 May 2003",
+    "Runtime": "100 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Andrew Stanton, Lee Unkrich(co-director)",
+    "Writer": "Andrew Stanton (original story by), Andrew Stanton (screenplay by), Bob Peterson (screenplay by), David Reynolds (screenplay by)",
+    "Actors": "Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe",
+    "Plot": "A clown fish named Marlin lives in the Great Barrier Reef loses his son, Nemo. After he ventures into the open sea, despite his father's constant warnings about many of the ocean's dangers. Nemo is abducted by a boat and netted up and sent to a dentist's office in Sydney. So, while Marlin ventures off to try to retrieve Nemo, Marlin meets a fish named Dory, a blue tang suffering from short-term memory loss. The companions travel a great distance, encountering various dangerous sea creatures such as sharks, anglerfish and jellyfish, in order to rescue Nemo from the dentist's office, which is situated by Sydney Harbor. While the two are doing this, Nemo and the other sea animals in the dentist's fish tank plot a way to return to Sydney Harbor to live their lives free again.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 48 wins & 61 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjMxYzBiNjUtZDliNC00MDAyLTg3N2QtOWNjNmNhZGQzNDg5XkEyXkFqcGdeQXVyNjE2MjQwNjc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "99%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "90/100"
+      }
+    ],
+    "Metascore": "90",
+    "imdbRating": "8.1",
+    "imdbVotes": "822,878",
+    "imdbID": "tt0266543",
+    "Type": "movie",
+    "DVD": "07 May 2013",
+    "BoxOffice": "$380,529,370",
+    "Production": "Walt Disney Pictures",
+    "Website": "http://disney.go.com/disneyvideos/animatedfilms/findingnemo/index2.html",
+    "Response": "True"
+  },
+  {
+    "Title": "Iron Man",
+    "Year": "2008",
+    "Rated": "PG-13",
+    "Released": "02 May 2008",
+    "Runtime": "126 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Jon Favreau",
+    "Writer": "Mark Fergus (screenplay), Hawk Ostby (screenplay), Art Marcum (screenplay), Matt Holloway (screenplay), Stan Lee (characters), Don Heck (characters), Larry Lieber (characters), Jack Kirby (characters)",
+    "Actors": "Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow",
+    "Plot": "Tony Stark. Genius, billionaire, playboy, philanthropist. Son of legendary inventor and weapons contractor Howard Stark. When Tony Stark is assigned to give a weapons presentation to an Iraqi unit led by Lt. Col. James Rhodes, he's given a ride on enemy lines. That ride ends badly when Stark's Humvee that he's riding in is attacked by enemy combatants. He survives - barely - with a chest full of shrapnel and a car battery attached to his heart. In order to survive he comes up with a way to miniaturize the battery and figures out that the battery can power something else. Thus Iron Man is born. He uses the primitive device to escape from the cave in Iraq. Once back home, he then begins work on perfecting the Iron Man suit. But the man who was put in charge of Stark Industries has plans of his own to take over Tony's technology for other matters.",
+    "Language": "English, Persian, Urdu, Arabic, Hungarian",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Oscars. Another 20 wins & 65 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "94%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "79/100"
+      }
+    ],
+    "Metascore": "79",
+    "imdbRating": "7.9",
+    "imdbVotes": "803,914",
+    "imdbID": "tt0371746",
+    "Type": "movie",
+    "DVD": "30 Sep 2008",
+    "BoxOffice": "$318,298,180",
+    "Production": "Paramount Pictures",
+    "Website": "http://www.ironmanmovie.com/",
+    "Response": "True"
+  },
+  {
+    "Title": "Aladdin",
+    "Year": "1992",
+    "Rated": "G",
+    "Released": "25 Nov 1992",
+    "Runtime": "90 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Ron Clements, John Musker",
+    "Writer": "Ron Clements (screenplay by), John Musker (screenplay by), Ted Elliott (screenplay by), Terry Rossio (screenplay by), Burny Mattinson (story), Roger Allers (story), Daan Jippes (story), Kevin Harkey (story), Sue C. Nichols (story), Francis Glebas (story), Darrell Rooney (story), Larry Leker (story), James Fujii (story), Kirk Hanson (story), Kevin Lima (story), Rebecca Rees (story), David S. Smith (story), Chris Sanders (story), Brian Pimental (story), Patrick A. Ventura (story)",
+    "Actors": "Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman",
+    "Plot": "Aladdin is a poor street urchin who spends his time stealing food from the marketplace in the city of Agrabah. His adventures begin when he meets a young girl who happens to be Princess Jasmine, who is forced to be married by her wacky yet estranged father. Aladdin's luck suddenly changes when he retrieves a magical lamp from the Cave of Wonders. What he unwittingly gets is a fun-loving genie who only wishes to have his freedom. Little do they know is that the Sultan's sinister advisor Jafar has his own plans for both Aladdin and the lamp.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 2 Oscars. Another 30 wins & 22 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q2NDI1MjUtM2Q5ZS00MTFlLWJiYWEtNTZmNjQ3OGJkZDgxXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "94%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "86/100"
+      }
+    ],
+    "Metascore": "86",
+    "imdbRating": "8.0",
+    "imdbVotes": "302,883",
+    "imdbID": "tt0103639",
+    "Type": "movie",
+    "DVD": "05 Oct 2004",
+    "BoxOffice": "N/A",
+    "Production": "Buena Vista Distribution Compa",
+    "Website": "http://disney.go.com/vault/archives/characters/aladdin/aladdin.html",
+    "Response": "True"
+  },
+  {
+    "Title": "The Hangover",
+    "Year": "2009",
+    "Rated": "R",
+    "Released": "05 Jun 2009",
+    "Runtime": "100 min",
+    "Genre": "Comedy",
+    "Director": "Todd Phillips",
+    "Writer": "Jon Lucas, Scott Moore",
+    "Actors": "Bradley Cooper, Ed Helms, Zach Galifianakis, Justin Bartha",
+    "Plot": "Angelenos Doug Billings and Tracy Garner are about to get married. Two days before the wedding, the four men in the wedding party - Doug, Doug's two best buddies Phil Wenneck and Stu Price, and Tracy's brother Alan Garner - hop into Tracy's father's beloved Mercedes convertible for a 24-hour stag party to Las Vegas. Phil, a married high school teacher, has the same maturity level as his students when he's with his pals. Stu, a dentist, is worried about everything, especially what his controlling girlfriend Melissa thinks. Because she disapproves of traditional male bonding rituals, Stu has to lie to her about the stag, he telling her that they are going on a wine tasting tour in the Napa Valley. Regardless, he intends on eventually marrying her, against the advice and wishes of his friends. And Alan seems to be unaware of what are considered the social graces of the western world. The morning after their arrival in Las Vegas, they awaken in their hotel suite each with the worst hangover. None remembers what happened in the past twelve or so hours. The suite is in shambles. And certain things are in the suite that shouldn't be, and certain things that should be in the suite are missing. Probably the most important in the latter category is Doug. As Phil, Stu and Alan try to find Doug using only what little pieces of information they have at hand, they go on a journey of discovery of how certain things got into the suite and what happened to the missing items. However they are on a race for time as if they can't find Doug in the next few hours, they are going to have to explain to Tracy why they are not yet back in Los Angeles. And even worse, they may not find Doug at all before the wedding.",
+    "Language": "English",
+    "Country": "USA, Germany",
+    "Awards": "Won 1 Golden Globe. Another 12 wins & 25 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGQwZjg5YmYtY2VkNC00NzliLTljYTctNzI5NmU3MjE2ODQzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "79%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "73/100"
+      }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.7",
+    "imdbVotes": "645,853",
+    "imdbID": "tt1119646",
+    "Type": "movie",
+    "DVD": "15 Dec 2009",
+    "BoxOffice": "$277,313,371",
+    "Production": "Warner Bros. Pictures",
+    "Website": "http://hangovermovie.warnerbros.com/",
+    "Response": "True"
+  },
+  {
+    "Title": "Star Trek",
+    "Year": "2009",
+    "Rated": "PG-13",
+    "Released": "08 May 2009",
+    "Runtime": "127 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "J.J. Abrams",
+    "Writer": "Roberto Orci, Alex Kurtzman, Gene Roddenberry (television series \"Star Trek\")",
+    "Actors": "Chris Pine, Zachary Quinto, Leonard Nimoy, Eric Bana",
+    "Plot": "On the day of James Kirk's birth, his father dies on his damaged starship in a last stand against a Romulan mining vessel looking for Ambassador Spock, who in this time, has grown on Vulcan disdained by his neighbors for his half-human heritage. 25 years later, James T. Kirk has grown into a young rebellious troublemaker. Challenged by Captain Christopher Pike to realize his potential in Starfleet, he comes to annoy academy instructors like Commander Spock. Suddenly, there is an emergency on Vulcan and the newly-commissioned USS Enterprise is crewed with promising cadets like Nyota Uhura, Hikaru Sulu, Pavel Chekov and even Kirk himself, thanks to Leonard McCoy's medical trickery. Together, this crew will have an adventure in the final frontier where the old legend is altered forever as a new version of the legend begins.",
+    "Language": "English",
+    "Country": "USA, Germany",
+    "Awards": "Won 1 Oscar. Another 23 wins & 92 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5NDQ5OTE4Ml5BMl5BanBnXkFtZTcwOTE3NDIzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "94%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
+    ],
+    "Metascore": "82",
+    "imdbRating": "8.0",
+    "imdbVotes": "544,376",
+    "imdbID": "tt0796366",
+    "Type": "movie",
+    "DVD": "17 Nov 2009",
+    "BoxOffice": "$257,704,099",
+    "Production": "IMAX",
+    "Website": "http://www.startrekmovie.com/",
+    "Response": "True"
+  },
+  {
+    "Title": "300",
+    "Year": "2006",
+    "Rated": "R",
+    "Released": "09 Mar 2007",
+    "Runtime": "117 min",
+    "Genre": "Action, Fantasy",
+    "Director": "Zack Snyder",
+    "Writer": "Zack Snyder (screenplay), Kurt Johnstad (screenplay), Michael B. Gordon (screenplay), Frank Miller (graphic novel), Lynn Varley (graphic novel)",
+    "Actors": "Gerard Butler, Lena Headey, Dominic West, David Wenham",
+    "Plot": "In the Battle of Thermopylae of 480 BC an alliance of Greek city-states fought the invading Persian army in the mountain pass of Thermopylae. Vastly outnumbered, the Greeks held back the enemy in one of the most famous last stands of history. Persian King Xerxes led a Army of well over 100,000 (Persian king Xerxes before war has about 170,000 army) men to Greece and was confronted by 300 Spartans, 700 Thespians, and 400 Thebans. Xerxes waited for 10 days for King Leonidas to surrender or withdraw but left with no options he pushed forward. After 3 days of battle all the Greeks were killed. The Spartan defeat was not the one expected, as a local shepherd, named Ephialtes, defected to the Persians and informed Xerxes that the separate path through Thermopylae, which the Persians could use to outflank the Greeks, was not as heavily guarded as they thought.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "17 wins & 45 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzNTkzNjcxNl5BMl5BanBnXkFtZTYwNDA4NjE3._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "60%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "52/100"
+      }
+    ],
+    "Metascore": "52",
+    "imdbRating": "7.7",
+    "imdbVotes": "668,027",
+    "imdbID": "tt0416449",
+    "Type": "movie",
+    "DVD": "31 Jul 2007",
+    "BoxOffice": "$210,500,000",
+    "Production": "Warner Bros. Pictures",
+    "Website": "http://300themovie.warnerbros.com/",
+    "Response": "True"
+  },
+  {
+    "Title": "Edge of Tomorrow",
+    "Year": "2014",
+    "Rated": "PG-13",
+    "Released": "06 Jun 2014",
+    "Runtime": "113 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Doug Liman",
+    "Writer": "Christopher McQuarrie (screenplay by), Jez Butterworth (screenplay by), John-Henry Butterworth (screenplay by), Hiroshi Sakurazaka (based on the novel \"All You Need Is Kill\" by)",
+    "Actors": "Tom Cruise, Emily Blunt, Brendan Gleeson, Bill Paxton",
+    "Plot": "An alien race has hit the Earth in an unrelenting assault, unbeatable by any military unit in the world. Major William Cage (Cruise) is an officer who has never seen a day of combat when he is unceremoniously dropped into what amounts to a suicide mission. Killed within minutes, Cage now finds himself inexplicably thrown into a time loop-forcing him to live out the same brutal combat over and over, fighting and dying again...and again. But with each battle, Cage becomes able to engage the adversaries with increasing skill, alongside Special Forces warrior Rita Vrataski (Blunt). And, as Cage and Vrataski take the fight to the aliens, each repeated encounter gets them one step closer to defeating the enemy!",
+    "Language": "English",
+    "Country": "USA, Canada",
+    "Awards": "11 wins & 37 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "71/100"
+      }
+    ],
+    "Metascore": "71",
+    "imdbRating": "7.9",
+    "imdbVotes": "515,038",
+    "imdbID": "tt1631867",
+    "Type": "movie",
+    "DVD": "07 Oct 2014",
+    "BoxOffice": "$77,121,429",
+    "Production": "Warner Bros. Pictures",
+    "Website": "http://www.edgeoftomorrowmovie.com",
+    "Response": "True"
+  },
+  {
+    "Title": "The Notebook",
+    "Year": "2004",
+    "Rated": "PG-13",
+    "Released": "25 Jun 2004",
+    "Runtime": "123 min",
+    "Genre": "Drama, Romance",
+    "Director": "Nick Cassavetes",
+    "Writer": "Jeremy Leven (screenplay), Jan Sardi (adaptation), Nicholas Sparks (novel)",
+    "Actors": "Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner",
+    "Plot": "In a nursing home, resident Duke reads a romance story for an old woman who has senile dementia with memory loss. In the late 1930s, wealthy seventeen year-old Allie Hamilton is spending summer vacation in Seabrook. Local worker Noah Calhoun meets Allie at a carnival and they soon fall in love with each other. One day, Noah brings Allie to an ancient house that he dreams of buying and restoring and they attempt to make love but get interrupted by their friend. Allie's parents do not approve of their romance since Noah belongs to another social class, and they move to New York with her. Noah writes 365 letters (A Year) to Allie, but her mother Anne Hamilton does not deliver them to her daughter. Three years later, the United States joins the World War II and Noah and his best friend Fin enlist in the army, and Allie works as an army nurse. She meets injured soldier Lon Hammond in the hospital. After the war, they meet each other again going on dates and then, Lon, who is wealthy and handsome, proposes. Meanwhile Noah buys and restores the old house and many people want to buy it. When Allie accidentally sees the photo of Noah and his house in a newspaper, she feels divided between her first love and her commitment with Lon. Meanwhile Duke stops reading to the old lady since his children are visiting him in the nursing home.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "12 wins & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk3OTM5Njg5M15BMl5BanBnXkFtZTYwMzA0ODI3._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "52%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "53/100"
+      }
+    ],
+    "Metascore": "53",
+    "imdbRating": "7.9",
+    "imdbVotes": "450,180",
+    "imdbID": "tt0332280",
+    "Type": "movie",
+    "DVD": "08 Feb 2005",
+    "BoxOffice": "$81,000,000",
+    "Production": "New Line Cinema",
+    "Website": "http://www.thenotebookmovie.com/",
+    "Response": "True"
+  },
+  {
+    "Title": "Alien",
+    "Year": "1979",
+    "Rated": "R",
+    "Released": "22 Jun 1979",
+    "Runtime": "116 min",
+    "Genre": "Horror, Sci-Fi",
+    "Director": "Ridley Scott",
+    "Writer": "Dan O'Bannon (story), Ronald Shusett (story), Dan O'Bannon (screenplay)",
+    "Actors": "Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton",
+    "Plot": "A commercial crew aboard the deep space towing vessel, Nostromo is on its way home when they pick up an SOS warning from a distant moon. What they don't know is that the SOS warning is not like any other ordinary warning call. Picking up the signal, the crew realizes that they are not alone on the spaceship when an alien stowaway is on the cargo ship.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "Won 1 Oscar. Another 16 wins & 19 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDNhN2IxZWItNGEwYS00ZDNhLThiM2UtODU3NWJlZjBkYjQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "8.5",
+    "imdbVotes": "675,363",
+    "imdbID": "tt0078748",
+    "Type": "movie",
+    "DVD": "06 Jan 2004",
+    "BoxOffice": "N/A",
+    "Production": "20th Century Fox",
+    "Website": "http://www.foxmovies.com/index1.html",
+    "Response": "True"
+  },
+  {
+    "Title": "Toy Story",
+    "Year": "1995",
+    "Rated": "G",
+    "Released": "22 Nov 1995",
+    "Runtime": "81 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "John Lasseter",
+    "Writer": "John Lasseter (original story by), Pete Docter (original story by), Andrew Stanton (original story by), Joe Ranft (original story by), Joss Whedon (screenplay by), Andrew Stanton (screenplay by), Joel Cohen (screenplay by), Alec Sokolow (screenplay by)",
+    "Actors": "Tom Hanks, Tim Allen, Don Rickles, Jim Varney",
+    "Plot": "A little boy named Andy loves to be in his room, playing with his toys, especially his doll named \"Woody\". But, what do the toys do when Andy is not with them, they come to life. Woody believes that he has life (as a toy) good. However, he must worry about Andy's family moving, and what Woody does not know is about Andy's birthday party. Woody does not realize that Andy's mother gave him an action figure known as Buzz Lightyear, who does not believe that he is a toy, and quickly becomes Andy's new favorite toy. Woody, who is now consumed with jealousy, tries to get rid of Buzz. Then, both Woody and Buzz are now lost. They must find a way to get back to Andy before he moves without them, but they will have to pass through a ruthless toy killer, Sid Phillips.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 3 Oscars. Another 23 wins & 17 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "100%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "95/100"
+      }
+    ],
+    "Metascore": "95",
+    "imdbRating": "8.3",
+    "imdbVotes": "739,551",
+    "imdbID": "tt0114709",
+    "Type": "movie",
+    "DVD": "20 Mar 2001",
+    "BoxOffice": "N/A",
+    "Production": "Buena Vista",
+    "Website": "http://www.disney.com/ToyStory",
+    "Response": "True"
+  },
+  {
+    "Title": "American Psycho",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "14 Apr 2000",
+    "Runtime": "102 min",
+    "Genre": "Crime, Drama",
+    "Director": "Mary Harron",
+    "Writer": "Bret Easton Ellis (novel), Mary Harron (screenplay), Guinevere Turner (screenplay)",
+    "Actors": "Christian Bale, Justin Theroux, Josh Lucas, Bill Sage",
+    "Plot": "Patrick Bateman is handsome, well educated and intelligent. He is twenty-seven and living his own American dream. He works by day on Wall Street, earning a fortune to complement the one he was born with. At night he descends into madness, as he experiments with fear and violence.",
+    "Language": "English, Spanish, Cantonese",
+    "Country": "USA, Canada",
+    "Awards": "5 wins & 8 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "68%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "64/100"
+      }
+    ],
+    "Metascore": "64",
+    "imdbRating": "7.6",
+    "imdbVotes": "409,649",
+    "imdbID": "tt0144084",
+    "Type": "movie",
+    "DVD": "05 Sep 2000",
+    "BoxOffice": "N/A",
+    "Production": "Lions Gate Films",
+    "Website": "http://www.americanpsycho.com",
+    "Response": "True"
+  },
+  {
+    "Title": "Good Will Hunting",
+    "Year": "1997",
+    "Rated": "R",
+    "Released": "09 Jan 1998",
+    "Runtime": "126 min",
+    "Genre": "Drama",
+    "Director": "Gus Van Sant",
+    "Writer": "Matt Damon, Ben Affleck",
+    "Actors": "Matt Damon, Ben Affleck, Stellan Skarsgård, John Mighton",
+    "Plot": "A touching tale of a wayward young man who struggles to find his identity, living in a world where he can solve any problem, except the one brewing deep within himself, until one day he meets his soul mate who opens his mind and his heart.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 2 Oscars. Another 22 wins & 57 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "70/100"
+      }
+    ],
+    "Metascore": "70",
+    "imdbRating": "8.3",
+    "imdbVotes": "722,300",
+    "imdbID": "tt0119217",
+    "Type": "movie",
+    "DVD": "08 Dec 1998",
+    "BoxOffice": "N/A",
+    "Production": "Miramax Films",
+    "Website": "http://www.miramax.com/movie/good-will-hunting/",
+    "Response": "True"
+  },
+  {
+    "Title": "The Avengers",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "04 May 2012",
+    "Runtime": "143 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Joss Whedon",
+    "Writer": "Joss Whedon (screenplay), Zak Penn (story), Joss Whedon (story)",
+    "Actors": "Robert Downey Jr., Chris Evans, Scarlett Johansson, Chris Hemsworth",
+    "Plot": "Nick Fury is the director of S.H.I.E.L.D., an international peace-keeping agency. The agency is a who's who of Marvel Super Heroes, with Iron Man, The Incredible Hulk, Thor, Captain America, Hawkeye and Black Widow. When global security is threatened by Loki and his cohorts, Nick Fury and his team will need all their powers to save the world from disaster.",
+    "Language": "English, Russian, Hindi",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 38 wins & 79 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "Metascore": "69",
+    "imdbRating": "8.1",
+    "imdbVotes": "1,116,889",
+    "imdbID": "tt0848228",
+    "Type": "movie",
+    "DVD": "25 Sep 2012",
+    "BoxOffice": "$623,279,547",
+    "Production": "Walt Disney Pictures",
+    "Website": "http://marvel.com/avengers_movie",
+    "Response": "True"
+  },
+  {
+    "Title": "Spider-Man: Homecoming",
+    "Year": "2017",
+    "Rated": "PG-13",
+    "Released": "07 Jul 2017",
+    "Runtime": "133 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Jon Watts",
+    "Writer": "Jonathan Goldstein (screenplay by), John Francis Daley (screenplay by), Jon Watts (screenplay by), Christopher Ford (screenplay by), Chris McKenna (screenplay by), Erik Sommers (screenplay by), Jonathan Goldstein (screen story by), John Francis Daley (screen story by), Stan Lee (based on the Marvel comic book by), Steve Ditko (based on the Marvel comic book by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by)",
+    "Actors": "Tom Holland, Michael Keaton, Robert Downey Jr., Marisa Tomei",
+    "Plot": "Thrilled by his experience with the Avengers, Peter returns home, where he lives with his Aunt May, under the watchful eye of his new mentor Tony Stark, Peter tries to fall back into his normal daily routine - distracted by thoughts of proving himself to be more than just your friendly neighborhood Spider-Man - but when the Vulture emerges as a new villain, everything that Peter holds most important will be threatened.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "4 wins & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "73/100"
+      }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.5",
+    "imdbVotes": "347,971",
+    "imdbID": "tt2250912",
+    "Type": "movie",
+    "DVD": "17 Oct 2017",
+    "BoxOffice": "$334,166,825",
+    "Production": "Sony Pictures",
+    "Website": "http://www.sonypictures.com/movies/spidermanhomecoming/",
+    "Response": "True"
+  },
+  {
+    "Title": "Forrest Gump",
+    "Year": "1994",
+    "Rated": "PG-13",
+    "Released": "06 Jul 1994",
+    "Runtime": "142 min",
+    "Genre": "Drama, Romance",
+    "Director": "Robert Zemeckis",
+    "Writer": "Winston Groom (novel), Eric Roth (screenplay)",
+    "Actors": "Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys",
+    "Plot": "Forrest Gump is a simple man with a low I.Q. but good intentions. He is running through childhood with his best and only friend Jenny. His 'mama' teaches him the ways of life and leaves him to choose his destiny. Forrest joins the army for service in Vietnam, finding new friends called Dan and Bubba, he wins medals, creates a famous shrimp fishing fleet, inspires people to jog, starts a ping-pong craze, creates the smiley, writes bumper stickers and songs, donates to people and meets the president several times. However, this is all irrelevant to Forrest who can only think of his childhood sweetheart Jenny Curran, who has messed up her life. Although in the end all he wants to prove is that anyone can love anyone.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 6 Oscars. Another 40 wins & 67 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "72%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
+    ],
+    "Metascore": "82",
+    "imdbRating": "8.8",
+    "imdbVotes": "1,507,796",
+    "imdbID": "tt0109830",
+    "Type": "movie",
+    "DVD": "28 Aug 2001",
+    "BoxOffice": "$330,000,000",
+    "Production": "Paramount Pictures",
+    "Website": "http://www.paramount.com/movies/forrest-gump/",
+    "Response": "True"
+  },
+  {
+    "Title": "Dunkirk",
+    "Year": "2017",
+    "Rated": "PG-13",
+    "Released": "21 Jul 2017",
+    "Runtime": "106 min",
+    "Genre": "Action, Drama, History",
+    "Director": "Christopher Nolan",
+    "Writer": "Christopher Nolan",
+    "Actors": "Fionn Whitehead, Damien Bonnard, Aneurin Barnard, Lee Armstrong",
+    "Plot": "Evacuation of Allied soldiers from Belgium, the British Empire, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26- June 04, 1940, during Battle of France in World War II.",
+    "Language": "English, French, German",
+    "Country": "UK, Netherlands, France, USA",
+    "Awards": "Won 3 Oscars. Another 51 wins & 197 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "94/100"
+      }
+    ],
+    "Metascore": "94",
+    "imdbRating": "8.0",
+    "imdbVotes": "405,870",
+    "imdbID": "tt5013056",
+    "Type": "movie",
+    "DVD": "19 Dec 2017",
+    "BoxOffice": "$188,042,171",
+    "Production": "Warner Bros. Pictures",
+    "Website": "http://www.dunkirkmovie.com",
+    "Response": "True"
+  },
+  {
+    "Title": "Logan",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "03 Mar 2017",
+    "Runtime": "137 min",
+    "Genre": "Action, Drama, Sci-Fi",
+    "Director": "James Mangold",
+    "Writer": "James Mangold (story by), Scott Frank (screenplay by), James Mangold (screenplay by), Michael Green (screenplay by)",
+    "Actors": "Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",
+    "Plot": "In 2029 the mutant population has shrunken significantly and the X-Men have disbanded. Logan, whose power to self-heal is dwindling, has surrendered himself to alcohol and now earns a living as a chauffeur. He takes care of the ailing old Professor X whom he keeps hidden away. One day, a female stranger asks Logan to drive a girl named Laura to the Canadian border. At first he refuses, but the Professor has been waiting for a long time for her to appear. Laura possesses an extraordinary fighting prowess and is in many ways like Wolverine. She is pursued by sinister figures working for a powerful corporation; this is because her DNA contains the secret that connects her to Logan. A relentless pursuit begins - In this third cinematic outing featuring the Marvel comic book character Wolverine we see the superheroes beset by everyday problems. They are aging, ailing and struggling to survive financially. A decrepit Logan is forced to ask himself if he can or even wants to put his remaining powers to good use. It would appear that in the near-future, the times in which they were able put the world to rights with razor sharp claws and telepathic powers are now over.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 13 wins & 55 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "93%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "77/100"
+      }
+    ],
+    "Metascore": "77",
+    "imdbRating": "8.1",
+    "imdbVotes": "500,328",
+    "imdbID": "tt3315342",
+    "Type": "movie",
+    "DVD": "23 May 2017",
+    "BoxOffice": "$226,276,809",
+    "Production": "20th Century Fox",
+    "Website": "http://www.foxmovies.com/movies/logan",
+    "Response": "True"
+  },
+  {
+    "Title": "Die Hard",
+    "Year": "1988",
+    "Rated": "R",
+    "Released": "20 Jul 1988",
+    "Runtime": "132 min",
+    "Genre": "Action, Thriller",
+    "Director": "John McTiernan",
+    "Writer": "Roderick Thorp (novel), Jeb Stuart (screenplay), Steven E. de Souza (screenplay)",
+    "Actors": "Bruce Willis, Bonnie Bedelia, Reginald VelJohnson, Paul Gleason",
+    "Plot": "NYPD cop John McClane goes on a Christmas vacation to visit his wife Holly in Los Angeles where she works for the Nakatomi Corporation. While they are at the Nakatomi headquarters for a Christmas party, a group of bank robbers led by Hans Gruber take control of the building and hold everyone hostage, with the exception of John, while they plan to perform a lucrative heist. Unable to escape and with no immediate police response, John is forced to take matters into his own hands.",
+    "Language": "English, German, Italian, Japanese",
+    "Country": "USA",
+    "Awards": "Nominated for 4 Oscars. Another 7 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzNmY2IwYzAtNDQ1NC00MmI4LThkOTgtZmVhYmExOTVhMWRkXkEyXkFqcGdeQXVyMTk5NDA3Nw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "93%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "70/100"
+      }
+    ],
+    "Metascore": "70",
+    "imdbRating": "8.2",
+    "imdbVotes": "684,102",
+    "imdbID": "tt0095016",
+    "Type": "movie",
+    "DVD": "09 Mar 1999",
+    "BoxOffice": "N/A",
+    "Production": "20th Century Fox",
+    "Website": "http://www.foxhome.com/diehardcollection/index_frames.html",
+    "Response": "True"
+  },
+  {
+    "Title": "Jaws",
+    "Year": "1975",
+    "Rated": "PG",
+    "Released": "20 Jun 1975",
+    "Runtime": "124 min",
+    "Genre": "Adventure, Drama, Thriller",
+    "Director": "Steven Spielberg",
+    "Writer": "Peter Benchley (screenplay), Carl Gottlieb (screenplay), Peter Benchley (based on the novel by)",
+    "Actors": "Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary",
+    "Plot": "It's a hot summer on Amity Island, a small community whose main business is its beaches. When new Sheriff Martin Brody discovers the remains of a shark attack victim, his first inclination is to close the beaches to swimmers. This doesn't sit well with Mayor Larry Vaughn and several of the local businessmen. Brody backs down to his regret as that weekend a young boy is killed by the predator. The dead boy's mother puts out a bounty on the shark and Amity is soon swamped with amateur hunters and fisherman hoping to cash in on the reward. A local fisherman with much experience hunting sharks, Quint, offers to hunt down the creature for a hefty fee. Soon Quint, Brody and Matt Hooper from the Oceanographic Institute are at sea hunting the Great White shark. As Brody succinctly surmises after their first encounter with the creature, they're going to need a bigger boat.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 3 Oscars. Another 11 wins & 18 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "87/100"
+      }
+    ],
+    "Metascore": "87",
+    "imdbRating": "8.0",
+    "imdbVotes": "486,446",
+    "imdbID": "tt0073195",
+    "Type": "movie",
+    "DVD": "11 Jul 2000",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "http://www.jaws25.com/",
+    "Response": "True"
+  },
+  {
+    "Title": "Jack and Jill",
+    "Year": "2011",
+    "Rated": "PG",
+    "Released": "11 Nov 2011",
+    "Runtime": "91 min",
+    "Genre": "Comedy",
+    "Director": "Dennis Dugan",
+    "Writer": "Steve Koren (screenplay), Adam Sandler (screenplay), Ben Zook (story)",
+    "Actors": "Adam Sandler, Al Pacino, Katie Holmes, Elodie Tougne",
+    "Plot": "Jack Sadelstein is a successful advertising executive in Los Angeles with a beautiful wife and kids, who dreads one event each year: the Thanksgiving visit of his identical twin sister Jill. Jill's neediness and passive-aggressiveness is maddening to Jack, turning his normally tranquil life upside down.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "14 wins & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjczMTU5OTUyMl5BMl5BanBnXkFtZTcwODEzNjc3Ng@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "3.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "3%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "23/100"
+      }
+    ],
+    "Metascore": "23",
+    "imdbRating": "3.3",
+    "imdbVotes": "67,841",
+    "imdbID": "tt0810913",
+    "Type": "movie",
+    "DVD": "06 Mar 2012",
+    "BoxOffice": "$74,158,157",
+    "Production": "Sony Pictures",
+    "Website": "http://www.jackandjill-movie.com/",
+    "Response": "True"
+  },
+  {
+    "Title": "Birdemic: Shock and Terror",
+    "Year": "2010",
+    "Rated": "NOT RATED",
+    "Released": "27 Feb 2010",
+    "Runtime": "105 min",
+    "Genre": "Horror, Romance, Thriller",
+    "Director": "James Nguyen",
+    "Writer": "James Nguyen (screenplay), James Nguyen (story)",
+    "Actors": "Alan Bagh, Whitney Moore, Tippi Hedren, Janae Caster",
+    "Plot": "A horde of mutated birds descends upon the quiet town of Half Moon Bay, California. With the death toll rising, Two citizens manage to fight back, but will they survive Birdemic?",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTcxODAwMDYwNV5BMl5BanBnXkFtZTcwNzQ3MjQzMg@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "1.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "19%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "1.8",
+    "imdbVotes": "17,786",
+    "imdbID": "tt1316037",
+    "Type": "movie",
+    "DVD": "22 Feb 2011",
+    "BoxOffice": "N/A",
+    "Production": "Independant Pictures",
+    "Website": "http://www.birdemic.com",
+    "Response": "True"
+  },
+  {
+    "Title": "Twilight",
+    "Year": "2008",
+    "Rated": "PG-13",
+    "Released": "21 Nov 2008",
+    "Runtime": "122 min",
+    "Genre": "Drama, Fantasy, Romance",
+    "Director": "Catherine Hardwicke",
+    "Writer": "Melissa Rosenberg (screenplay), Stephenie Meyer (novel)",
+    "Actors": "Kristen Stewart, Sarah Clarke, Matt Bushell, Billy Burke",
+    "Plot": "Bella Swan has always been a little bit different. Never one to run with the crowd, Bella never cared about fitting in with the trendy, plastic girls at her Phoenix, Arizona high school. When her mother remarried and Bella chooses to live with her father in the rainy little town of Forks, Washington, she didn't expect much of anything to change. But things do change when she meets the mysterious and dazzlingly beautiful Edward Cullen. For Edward is nothing like any boy she's ever met. He's nothing like anyone she's ever met, period. He's intelligent and witty, and he seems to see straight into her soul. In no time at all, they are swept up in a passionate and decidedly unorthodox romance - unorthodox because Edward really isn't like the other boys. He can run faster than a mountain lion. He can stop a moving car with his bare hands. Oh, and he hasn't aged since 1918. Like all vampires, he's immortal. That's right - vampire. But he doesn't have fangs - that's just in the movies. And he doesn't drink human blood, though Edward and his family are unique among vampires in that lifestyle choice. To Edward, Bella is that thing he has waited 90 years for - a soul mate. But the closer they get, the more Edward must struggle to resist the primal pull of her scent, which could send him into an uncontrollable frenzy. Somehow or other, they will have to manage their unmanageable love. But when unexpected visitors come to town and realize that there is a human among them Edward must fight to save Bella? A modern, visual, and visceral Romeo and Juliet story of the ultimate forbidden love affair - between vampire and mortal.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "29 wins & 15 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "49%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "56/100"
+      }
+    ],
+    "Metascore": "56",
+    "imdbRating": "5.2",
+    "imdbVotes": "377,716",
+    "imdbID": "tt1099212",
+    "Type": "movie",
+    "DVD": "21 Mar 2009",
+    "BoxOffice": "$191,449,475",
+    "Production": "Summit Entertainment",
+    "Website": "http://twilightthemovie.com/",
+    "Response": "True"
+  },
+  {
+    "Title": "Mask",
+    "Year": "1985",
+    "Rated": "PG-13",
+    "Released": "22 Mar 1985",
+    "Runtime": "120 min",
+    "Genre": "Biography, Drama",
+    "Director": "Peter Bogdanovich",
+    "Writer": "Anna Hamilton Phelan",
+    "Actors": "Cher, Sam Elliott, Eric Stoltz, Estelle Getty",
+    "Plot": "Rusty Dennis is the mother of Rocky, a seriously deformed but extremely intelligent and emotionally warm teenager. Rusty is a no-nonsense mother whose wild lifestyle is often at odds with her tenderness and protectiveness towards Rocky. She is determined that Rocky be given the same chances and happiness that everyone else takes for granted.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 2 wins & 7 nominations.",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTVlYjExOWEtZmU5Yy00N2VjLWJmY2UtZjZiYzMzYzhhYjNiXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "93%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.2",
+    "imdbVotes": "22,453",
+    "imdbID": "tt0089560",
+    "Type": "movie",
+    "DVD": "10 Oct 2000",
+    "BoxOffice": "N/A",
+    "Production": "MCA Universal Home Video",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Last Airbender",
+    "Year": "2010",
+    "Rated": "PG",
+    "Released": "01 Jul 2010",
+    "Runtime": "103 min",
+    "Genre": "Action, Adventure, Family",
+    "Director": "M. Night Shyamalan",
+    "Writer": "M. Night Shyamalan",
+    "Actors": "Noah Ringer, Dev Patel, Nicola Peltz, Jackson Rathbone",
+    "Plot": "The world is divided into four kingdoms, each represented by the element they harness, and peace has lasted throughout the realms of Water, Air, Earth, and Fire under the supervision of the Avatar, a link to the spirit world and the only being capable of mastering the use of all four elements. When young Avatar Aang disappears, the Fire Nation launches an attack to eradicate all members of the Air Nomads to prevent interference in their future plans for world domination. 100 years pass and current Fire Lord Ozai continues to conquer and imprison anyone with elemental \"bending\" abilities in the Earth and Water Kingdoms, while siblings Katara and Sokka from a Southern Water Tribe find a mysterious boy trapped beneath the ice outside their village. Upon rescuing him, he reveals himself to be Aang, Avatar and last of the Air Nomads. Swearing to protect the Avatar, Katara and Sokka journey with him to the Northern Water Kingdom in his quest to master \"Waterbending\" and eventually fulfill his destiny of once again restoring peace to the world. But as they inch nearer to their goal, the group must evade Prince Zuko, the exiled son of Lord Ozai, Commander Zhao, the Fire Nation's military leader, and the tyrannical onslaught of the evil Fire Lord himself.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "8 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM1NjE0NDA0MV5BMl5BanBnXkFtZTcwODE4NDg1Mw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "6%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "20/100"
+      }
+    ],
+    "Metascore": "20",
+    "imdbRating": "4.1",
+    "imdbVotes": "131,955",
+    "imdbID": "tt0938283",
+    "Type": "movie",
+    "DVD": "16 Nov 2010",
+    "BoxOffice": "$131,564,731",
+    "Production": "Paramount Pictures",
+    "Website": "http://www.TheLastAirbenderMovie.com/",
+    "Response": "True"
+  },
+  {
+    "Title": "Godzilla",
+    "Year": "2014",
+    "Rated": "PG-13",
+    "Released": "16 May 2014",
+    "Runtime": "123 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Gareth Edwards",
+    "Writer": "Max Borenstein (screenplay), Dave Callaham (story), Ishirô Honda (based on the character created by), Takeo Murata (based on the character created by), Shigeru Kayama (based on the character created by)",
+    "Actors": "Aaron Taylor-Johnson, CJ Adams, Ken Watanabe, Bryan Cranston",
+    "Plot": "In 1999, the Janjira nuclear plant was mysteriously destroyed with most hands lost including supervisor Joe Brody's colleague and wife, Sandra. Years later, Joe's son, Ford, a US Navy ordnance disposal officer, must go to Japan to help his estranged father who obsessively searches for the truth of the incident. In doing so, father and son discover the disaster's secret cause on the wreck's very grounds. This enables them to witness the reawakening of a terrible threat to all of Humanity, which is made all the worse with a second secret revival elsewhere. Against this cataclysm, the only hope for the world may be Godzilla, but the challenge for the King of the Monsters will be great even as Humanity struggles to understand the destructive ally they have.",
+    "Language": "English, Japanese",
+    "Country": "USA, Japan",
+    "Awards": "6 wins & 31 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2E4ZDgxN2YtZjExMS00MWE5LTg3NjQtNTkxMzJhOTA3MDQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "75%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "62/100"
+      }
+    ],
+    "Metascore": "62",
+    "imdbRating": "6.4",
+    "imdbVotes": "334,499",
+    "imdbID": "tt0831387",
+    "Type": "movie",
+    "DVD": "16 Sep 2014",
+    "BoxOffice": "$172,962,996",
+    "Production": "Warner Bros Pictures",
+    "Website": "http://godzillamovie.com",
+    "Response": "True"
+  },
+  {
+    "Title": "RoboCop",
+    "Year": "1987",
+    "Rated": "R",
+    "Released": "17 Jul 1987",
+    "Runtime": "102 min",
+    "Genre": "Action, Crime, Sci-Fi",
+    "Director": "Paul Verhoeven",
+    "Writer": "Edward Neumeier, Michael Miner",
+    "Actors": "Peter Weller, Nancy Allen, Dan O'Herlihy, Ronny Cox",
+    "Plot": "Detroit - in the future - is crime-ridden and run by a massive company. The company has developed a huge crime-fighting robot, which unfortunately develops a rather dangerous glitch. The company sees a way to get back in favor with the public when policeman Alex Murphy is killed by a street gang. Murphy's body is reconstructed within a steel shell and called RoboCop. RoboCop is very successful against criminals and becomes a target of supervillian Boddicker.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Oscars. Another 11 wins & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWVlYzU2ZjQtZmNkMi00OTc3LTkwZmYtZDVjNmY4OWFmZGJlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "89%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "67/100"
+      }
+    ],
+    "Metascore": "67",
+    "imdbRating": "7.5",
+    "imdbVotes": "204,183",
+    "imdbID": "tt0093870",
+    "Type": "movie",
+    "DVD": "02 Oct 2001",
+    "BoxOffice": "N/A",
+    "Production": "Orion Pictures Corporation",
+    "Website": "https://www.facebook.com/RobocopMovie",
+    "Response": "True"
+  },
+  {
+    "Title": "Indiana Jones and the Last Crusade",
+    "Year": "1989",
+    "Rated": "PG-13",
+    "Released": "24 May 1989",
+    "Runtime": "127 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "Steven Spielberg",
+    "Writer": "Jeffrey Boam (screenplay), George Lucas (story), Menno Meyjes (story), George Lucas (characters), Philip Kaufman (characters)",
+    "Actors": "Harrison Ford, Sean Connery, Denholm Elliott, Alison Doody",
+    "Plot": "An art collector appeals to Jones to embark on a search for the Holy Grail. He learns that another archaeologist has disappeared while searching for the precious goblet, and the missing man is his own father, Dr. Henry Jones. The artifact is much harder to find than they expected, and its powers are too much for those impure in heart.",
+    "Language": "English, German, Greek, Arabic",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 6 wins & 20 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "65/100"
+      }
+    ],
+    "Metascore": "65",
+    "imdbRating": "8.3",
+    "imdbVotes": "600,911",
+    "imdbID": "tt0097576",
+    "Type": "movie",
+    "DVD": "21 Oct 2003",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "http://www.indianajones.com/",
+    "Response": "True"
+  },
+  {
+    "Title": "Scary Movie",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "07 Jul 2000",
+    "Runtime": "88 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson, Phil Beauman, Jason Friedberg, Aaron Seltzer",
+    "Actors": "Carmen Electra, Dave Sheridan, Frank B. Moore, Giacomo Baessato",
+    "Plot": "A group of teenagers including Cindy Campbell and Bobby Prinze, accidentally hit a man when driving, and dispose of the body, but now they are being stalked by a very recognisable masked killer. The victim count increases, whilst Cindy must survive the carnage that has she has seen in so many films before.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "7 wins & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGEzZjdjMGQtZmYzZC00N2I4LThiY2QtNWY5ZmQ3M2ExZmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "53%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "48/100"
+      }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.2",
+    "imdbVotes": "206,633",
+    "imdbID": "tt0175142",
+    "Type": "movie",
+    "DVD": "12 Dec 2000",
+    "BoxOffice": "N/A",
+    "Production": "Dimension Films",
+    "Website": "http://www.scarymovie.com",
+    "Response": "True"
+  },
+  {
+    "Title": "Pulp Fiction",
+    "Year": "1994",
+    "Rated": "R",
+    "Released": "14 Oct 1994",
+    "Runtime": "154 min",
+    "Genre": "Crime, Drama",
+    "Director": "Quentin Tarantino",
+    "Writer": "Quentin Tarantino (stories), Roger Avary (stories), Quentin Tarantino",
+    "Actors": "Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta",
+    "Plot": "Jules Winnfield (Samuel L. Jackson) and Vincent Vega (John Travolta) are two hit men who are out to retrieve a suitcase stolen from their employer, mob boss Marsellus Wallace (Ving Rhames). Wallace has also asked Vincent to take his wife Mia (Uma Thurman) out a few days later when Wallace himself will be out of town. Butch Coolidge (Bruce Willis) is an aging boxer who is paid by Wallace to lose his fight. The lives of these seemingly unrelated people are woven together comprising of a series of funny, bizarre and uncalled-for incidents.",
+    "Language": "English, Spanish, French",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 62 wins & 69 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "94%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "94/100"
+      }
+    ],
+    "Metascore": "94",
+    "imdbRating": "8.9",
+    "imdbVotes": "1,548,861",
+    "imdbID": "tt0110912",
+    "Type": "movie",
+    "DVD": "19 May 1998",
+    "BoxOffice": "N/A",
+    "Production": "Miramax Films",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Jurassic Park",
+    "Year": "1993",
+    "Rated": "PG-13",
+    "Released": "11 Jun 1993",
+    "Runtime": "127 min",
+    "Genre": "Adventure, Sci-Fi, Thriller",
+    "Director": "Steven Spielberg",
+    "Writer": "Michael Crichton (novel), Michael Crichton (screenplay), David Koepp (screenplay)",
+    "Actors": "Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough",
+    "Plot": "Huge advancements in scientific technology have enabled a mogul to create an island full of living dinosaurs. John Hammond has invited four individuals, along with his two grandchildren, to join him at Jurassic Park. But will everything go according to plan? A park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "Won 3 Oscars. Another 32 wins & 25 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "68/100"
+      }
+    ],
+    "Metascore": "68",
+    "imdbRating": "8.1",
+    "imdbVotes": "731,642",
+    "imdbID": "tt0107290",
+    "Type": "movie",
+    "DVD": "10 Oct 2000",
+    "BoxOffice": "$45,299,680",
+    "Production": "Universal City Studios",
+    "Website": "http://www.jurassicpark.com/maingate_flash.html",
     "Response": "True"
   }
 ]
