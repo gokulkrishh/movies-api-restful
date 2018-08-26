@@ -36,7 +36,7 @@ export const generateRatings = (min = 5, max = 10) => {
 
 const generateGenre = (movie) => {
   let genre = movie.Genre;
-  if (genre === "") {
+  if (genre === "" || !genre) {
     genre = [generateRandomGenres(), generateRandomGenres()];
   } else {
     genre = genre.split(",");

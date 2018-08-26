@@ -11,10 +11,9 @@ const routes = app => {
   });
 
   app.route("/api/movies/all").get((req, res) => {
-    const count = req.query.count;
     res.json({
       statusCode: 200,
-      data: getAllMovies(count)
+      data: getAllMovies()
     });
   });
 
