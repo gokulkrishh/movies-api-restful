@@ -31,5 +31,5 @@ const port = 8000;
 
 // Listening to port
 app.listen(port, () => {
-  console.log(`Server is running in http://localhost:${8000}`);
+  console.log(`Server is running in http://localhost:${8000}`); //eslint-disable-line
 });
