@@ -26,7 +26,7 @@ npm run debug
 
 ### Get all movies
 
-#### - `/api/movies/all` - To get all the movies list, by default it will give 20 movies
+#### - `/api/movies/all` - To get all the movies list
 
 **Example**:
 
