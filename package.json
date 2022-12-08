@@ -16,7 +16,7 @@
     "babel-preset-env": "^1.7.0",
     "body-parser": "^1.18.3",
     "compression": "^1.7.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "ndb": "^1.0.24",
     "prettier": "^1.14.2"
   },
